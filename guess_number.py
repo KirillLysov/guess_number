@@ -1,6 +1,6 @@
 import random
 
-# Комментарий
+# Комментарий 2
 
 num_random = random.randint(1, 100)
 
