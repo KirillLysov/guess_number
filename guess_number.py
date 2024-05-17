@@ -2,7 +2,7 @@ import random
 
 # Комментарий 2
 
-num_random = random.randint(1, 1000)
+num_random = random.randint(1, 10000)
 
 while True:
     num_input = int(input())
